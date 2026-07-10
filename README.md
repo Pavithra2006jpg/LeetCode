@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pavithra2006jpg/LeetCode/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra2006jpg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pavithra2006jpg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
